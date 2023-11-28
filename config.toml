@@ -46,6 +46,7 @@ disableKinds = ["taxonomy", "term"]
     # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
     # { telegram = "https://t.me/username" },
+    { threads = {href = "https://www.threads.net/@stephanierose.7997", text = "Threads" } },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
